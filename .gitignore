@@ -1,5 +1,4 @@
-files/etc
-files/root
+files
 output
 packages
 config.yaml
