@@ -686,26 +686,26 @@ yaois.nu
 Usage:
   > yaois.nu make-info
     [-f --file=CONFIG]
-    [-q --quiet]
+    [-v --verbose]
   > yaois.nu make-help
     [-f --file=CONFIG]
-    [-q --quiet]
+    [-v --verbose]
   > yaois.nu make-depends PACKAGE
     [-f --file=CONFIG]
-    [-q --quiet]
+    [-v --verbose]
   > yaois.nu make-whatdepends PACKAGE
     [-f --file=CONFIG]
-    [-q --quiet]
+    [-v --verbose]
   > yaois.nu make-manifest
     [-a --abi]
     [-f --file=CONFIG]
-    [-q --quiet]
+    [-v --verbose]
   > yaois.nu make-image
     [-c --clean]
     [-f --file=CONFIG]
     [-l --log]
     [-o --output=FORMAT]
-    [-q --quiet]
+    [-v --verbose]
   > yaois.nu check
     [-f --file=CONFIG]
   > yaois.nu generate-config
